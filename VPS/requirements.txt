@@ -1,0 +1,5 @@
+Flask==2.3.3
+imageio==2.33.1
+imageio-ffmpeg==0.4.9
+moviepy==1.0.3
+
